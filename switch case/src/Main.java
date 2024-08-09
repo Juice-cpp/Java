@@ -6,6 +6,7 @@ public class Main {
         int numAlunos = entrada.nextInt();
 
         switch (numAlunos) {
+            //pode juntar o case 10 e 20 escrevendo "case 10, 20:"
             case 10:
                 System.out.println("Sala I-16");
                 break;
