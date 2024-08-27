@@ -1,3 +1,5 @@
+//Javinha é de cria
+
 import java.util.Scanner;
 public class Main {
     private static java.lang.Object continuar;
