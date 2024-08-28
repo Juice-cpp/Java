@@ -10,7 +10,8 @@ public class Campo {
         for (int i = 0; i < mapa.length; i++) {
             for (int j = 0; j < mapa[i].length; j++) {
                 mapa[i][j] = rand.nextBoolean();
-                if(mapa[i][j]) {
+
+                if(!mapa[i][j]) {
                     localSeguro += 1;
                 }
             }
