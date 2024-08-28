@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex 0 Array/Ex 0 Array.iml" filepath="$PROJECT_DIR$/Ex 0 Array/Ex 0 Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 1 Podrao/Ex 1 Podrao.iml" filepath="$PROJECT_DIR$/Ex 1 Podrao/Ex 1 Podrao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 1 Zumbi Correcao/Ex 1 Zumbi Correcao.iml" filepath="$PROJECT_DIR$/Ex 1 Zumbi Correcao/Ex 1 Zumbi Correcao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 1 Zumbis/Ex 1 Zumbis.iml" filepath="$PROJECT_DIR$/Ex 1 Zumbis/Ex 1 Zumbis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 2 Podrao/Ex 2 Podrao.iml" filepath="$PROJECT_DIR$/Ex 2 Podrao/Ex 2 Podrao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 2 Zumbis/Ex 2 Zumbis.iml" filepath="$PROJECT_DIR$/Ex 2 Zumbis/Ex 2 Zumbis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 3 NP3/Ex 3 NP3.iml" filepath="$PROJECT_DIR$/Ex 3 NP3/Ex 3 NP3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 5 Adivinhacao/Ex 5 Adivinhacao.iml" filepath="$PROJECT_DIR$/Ex 5 Adivinhacao/Ex 5 Adivinhacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 6 Adivinhacao Aprimorado/Ex 6 Adivinhacao Aprimorado.iml" filepath="$PROJECT_DIR$/Ex 6 Adivinhacao Aprimorado/Ex 6 Adivinhacao Aprimorado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 6 Mario Kart/Ex 6 Mario Kart.iml" filepath="$PROJECT_DIR$/Ex 6 Mario Kart/Ex 6 Mario Kart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex Campo Minado matriz/Ex Campo Minado matriz.iml" filepath="$PROJECT_DIR$/Ex Campo Minado matriz/Ex Campo Minado matriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex Cantina array/Ex Cantina array.iml" filepath="$PROJECT_DIR$/Ex Cantina array/Ex Cantina array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exemplo Banco/Exemplo Banco.iml" filepath="$PROJECT_DIR$/Exemplo Banco/Exemplo Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch case/switch case.iml" filepath="$PROJECT_DIR$/switch case/switch case.iml" />
+    </modules>
+  </component>
+</project>
